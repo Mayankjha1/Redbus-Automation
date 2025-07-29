@@ -33,13 +33,14 @@ This project automates the **search functionality** of a bus booking website usi
 
 ---
 
+### 📥 Output
+
+<img width="1020" height="528" alt="image" src="https://github.com/user-attachments/assets/d87ad695-5187-469e-86d4-255f575cffcc" />
+
 ### 📥 Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/BusBookingAutomation.git
 cd BusBookingAutomation
 
-### 📥 Output
-
-<img width="1020" height="528" alt="image" src="https://github.com/user-attachments/assets/d87ad695-5187-469e-86d4-255f575cffcc" />
 
